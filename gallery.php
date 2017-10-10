@@ -108,5 +108,9 @@ include "./header_nav.php";
     </div>
 </div>
 
+<?php
+echo "<small>&copy; Catherine Stevenson " . date('Y') . "</small>";
+?>
+
 </body>
 </html>
