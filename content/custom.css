@@ -1,3 +1,20 @@
+/* Background */
+.jumbotron{
+	background-image:url("../media/belljarspoon2.jpg");
+	background-size: 200ex 200ex;
+	background-position: center;
+}
+
+/* Colouring */
+h2{
+	color:#FFF;
+}
+
+.navbar-custom {
+    color: #FFFF00;
+    background-color: #D3D3D3;
+}
+
 /* Spacing */
 .footer{
 	text-align:center;
@@ -7,9 +24,16 @@
 	text-align:center;
 }
 
-#portrait{
-	margin: auto;
-    	width: 50%;
-    	border: 3px solid green;
-    	padding: 10px;
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
 }

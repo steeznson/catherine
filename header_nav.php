@@ -9,12 +9,14 @@
         <script src="content/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 	<!-- custom style sheet-->
         <link href='content/custom.css' rel='stylesheet' type='text/css'>
+	<!-- custom js -->
+	<script src="scripts/gallery.js"></script>
         <title>Catherine Stevenson Artist</title>
 </head>
 
 <body class="class-for-page">
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse navbar-custom">
         <div class="container-fluid">
         <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
