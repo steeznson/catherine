@@ -11,12 +11,8 @@ include "./header_nav.php";
                 <ul class="hide-bullets">
                     <li class="col-sm-3">
                         <a class="thumbnail" id="carousel-selector-0">
-                            <img src="media/belljarbluegoose2.jpg">
+                            <img src="media/1belljarspoon2.jpg">
                         </a>
-                    </li>
-
-                    <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-1"><img src="media/1belljarspoon2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
