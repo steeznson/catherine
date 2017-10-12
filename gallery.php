@@ -16,39 +16,43 @@ include "./header_nav.php";
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-1"><img src="media/belljardalicabinet2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-1"><img src="media/1belljarspoon2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-2"><img src="media/belljarduck2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-2"><img src="media/2belljarskull2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-3"><img src="media/belljarelephant2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-3"><img src="media/3belljarhook2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-4"><img src="media/belljarflower2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-4"><img src="media/4belljarhare2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-5"><img src="media/belljarhare2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-5"><img src="media/5belljarflower2.jpg"></a>
                     </li>
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-6"><img src="media/belljarhook2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-6"><img src="media/6belljarelephant2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-7"><img src="media/belljarskull2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-7"><img src="media/7belljarduck2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-8"><img src="media/belljarspoon2.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-8"><img src="media/8belljardalicabinet2.jpg"></a>
                     </li>
 
                     <li class="col-sm-3">
-                        <a class="thumbnail" id="carousel-selector-9"><img src="media/lettersflowers.jpg"></a>
+                        <a class="thumbnail" id="carousel-selector-9"><img src="media/9belljarbluegoose2.jpg"></a>
                     </li>
+
+		    <li class="col-sm-3">
+			<a class="thumbnail" id="carousel-selector-10"><img src="media/10belljatnetsuke.jpg"></a>
+		    </li>
                 </ul>
             </div>
             <div class="col-sm-6">
@@ -60,34 +64,34 @@ include "./header_nav.php";
                                 <!-- Carousel items -->
                                 <div class="carousel-inner">
                                     <div class="active item" data-slide-number="0">
-                                        <img src="media/belljarbluegoose2.jpg"></div>
+                                        <img src="media/1belljarspoon2.jpg"></div>
 
                                     <div class="item" data-slide-number="1">
-                                        <img src="media/belljardalicabinet2.jpg"></div>
+                                        <img src="media/2belljarskull2.jpg"></div>
 
                                     <div class="item" data-slide-number="2">
-                                        <img src="media/belljarduck2.jpg"></div>
+                                        <img src="media/3belljarhook2.jpg"></div>
 
                                     <div class="item" data-slide-number="3">
-                                        <img src="media/belljarelephant2.jpg"></div>
+                                        <img src="media/4belljarhare2.jpg"></div>
 
                                     <div class="item" data-slide-number="4">
-                                        <img src="media/belljarflower2.jpg"></div>
+                                        <img src="media/5belljarflower2.jpg"></div>
 
                                     <div class="item" data-slide-number="5">
-                                        <img src="media/belljarhare2.jpg"></div>
+                                        <img src="media/6belljarelephant2.jpg"></div>
                                     
                                     <div class="item" data-slide-number="6">
-                                        <img src="media/belljarhook2.jpg"></div>
+                                        <img src="media/7belljarduck2.jpg"></div>
                                     
                                     <div class="item" data-slide-number="7">
-                                        <img src="media/belljarskull2.jpg"></div>
+                                        <img src="media/8belljardalicabinet2.jpg"></div>
                                     
                                     <div class="item" data-slide-number="8">
-                                        <img src="media/belljarspoon2.jpg"></div>
+                                        <img src="media/9belljarbluegoose2.jpg"></div>
                                     
                                     <div class="item" data-slide-number="9">
-                                        <img src="media/lettersflowers.jpg"></div>
+                                        <img src="media/10belljatnetsuke.jpg"></div>
                                     
                                 </div>
                                 <!-- Carousel nav -->
