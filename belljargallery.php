@@ -6,11 +6,6 @@ include "./header_nav.php";
 	<div class="row">
 	<div class='list-group gallery'>
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/2belljarskull2.jpg">
-                    <img class="img-responsive" alt="" src="media/belljar/2belljarskull2.jpg" />
-                </a>
-            </div> <!-- col-6 / end -->
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
                 <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/5belljarflower2.jpg">
                     <img class="img-responsive" alt="" src="media/belljar/5belljarflower2.jpg" />
                 </a>
@@ -23,6 +18,16 @@ include "./header_nav.php";
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
                 <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/7belljarduck2.jpg">
                     <img class="img-responsive" alt="" src="media/belljar/7belljarduck2.jpg" />
+                </a>
+            </div> <!-- col-6 / end -->
+            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/4belljarhare2.jpg">
+                    <img class="img-responsive" alt="" src="media/belljar/4belljarhare2.jpg" />
+                </a>
+            </div> <!-- col-6 / end -->
+            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/3belljarhook2.jpg">
+                    <img class="img-responsive" alt="" src="media/belljar/3belljarhook2.jpg" />
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
@@ -46,13 +51,8 @@ include "./header_nav.php";
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/4belljarhare2.jpg">
-                    <img class="img-responsive" alt="" src="media/belljar/4belljarhare2.jpg" />
-                </a>
-            </div> <!-- col-6 / end -->
-            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/3belljarhook2.jpg">
-                    <img class="img-responsive" alt="" src="media/belljar/3belljarhook2.jpg" />
+                <a class="fancybox thumbnail" rel="ligthbox" href="media/belljar/2belljarskull2.jpg">
+                    <img class="img-responsive" alt="" src="media/belljar/2belljarskull2.jpg" />
                 </a>
             </div> <!-- col-6 / end -->
         </div> <!-- list-group / end -->
