@@ -4,7 +4,7 @@ include "./header_nav.php";
 
 <div class="container">
   <div class="jumbotron">
-    <h2>Welcome to Catherine Stevenson's online artwork portfolio!</h2>
+    <h2>Catherine Stevenson Art</h2>
   </div>
 </div>
 
@@ -13,7 +13,7 @@ include "./header_nav.php";
   	<div class="row">
     	<div class="col-md-4">
       		<h3>The Artist</h3>                	
-		<img src="media/CatherineStevenson5.jpg" height="250px" width="235px"/>
+		<img src="media/CatherineStevenson5.jpg" height="270px" width="260px"/>
 	</div>
     	<div class="col-md-4">
 			<h3>Bio</h3>
