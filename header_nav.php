@@ -7,6 +7,8 @@
         <link rel="stylesheet" href="content/bootstrap-3.3.7-dist/css/bootstrap.min.css">
         <!-- Latest compiled and minified JavaScript -->
         <script src="content/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
 	<!-- custom style sheet-->
         <link href='content/custom.css' rel='stylesheet' type='text/css'>
 	<!-- custom js -->
@@ -28,7 +30,7 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="belljargallery.php">Bell Jar Gallery</a></li>
                         <li><a href="contact.php">Contact</a></li>
                 </ul>
         </div>

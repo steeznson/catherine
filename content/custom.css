@@ -1,6 +1,6 @@
 /* Background */
 .jumbotron{
-	background-image:url("../media/1belljarspoon2.jpg");
+	background-image:url("../media/belljar/1belljarspoon2.jpg");
 	background-size: 200ex 200ex;
 	background-position: center;
 }
@@ -24,16 +24,10 @@ h2{
 	text-align:center;
 }
 
-.hide-bullets {
-    list-style:none;
-    margin-left: -40px;
-    margin-top:20px;
+/* Fancybox */
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
 }
 
-.thumbnail {
-    padding: 0;
-}
-
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
-    width: 100%;
-}
