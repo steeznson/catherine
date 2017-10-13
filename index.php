@@ -13,7 +13,7 @@ include "./header_nav.php";
   	<div class="row">
     	<div class="col-md-4">
       		<h3>The Artist</h3>                	
-		<img src="media/CatherineStevenson5.jpg" height="270px" width="260px"/>
+		<img src="media/CatherineStevenson5.jpg" height="275px" width="275px"/>
 	</div>
     	<div class="col-md-4">
 			<h3>Bio</h3>
