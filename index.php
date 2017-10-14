@@ -16,12 +16,14 @@ include "./header_nav.php";
 		<img src="media/CatherineStevenson5.jpg" height="275px" width="275px"/>
 	</div>
     	<div class="col-md-4">
-			<h3>Bio</h3>
-				<p>[2] Contra quos omnis dicendum breviter existimo. Quamquam philosophiae quidem vituperatoribus satis responsum est eo libro, quo a nobis philosophia defensa et collaudata est, cum esset accusata et vituperata ab Hortensio. qui liber cum et tibi probatus videretur et iis, quos ego posse iudicare arbitrarer, plura suscepi veritus ne movere hominum studia viderer, retinere non posse. Qui autem, si maxime hoc placeat, moderatius tamen id volunt fieri, difficilem quandam temperantiam postulant in eo, quod semel admissum coerceri reprimique non potest, ut propemodum iustioribus utamur illis, qui omnino avocent a philosophia, quam his, qui rebus infinitis modum constituant in reque eo meliore, quo maior sit, mediocritatem desiderent.</p>
+		<h3>Bio</h3>
+			<p>Catherine Stevenson studied drawing and painting at Edinburgh College of Art from 1974 to 1978.</p>
+			<p>She was awarded the Professional Graduate Diploma from Moray House School of Education in 1982 and taught Art and Design for 33 years in secondary schools in West Lothian and Edinburgh, retiring early in order to paint full time.</p>
     	</div>
         <div class="col-md-4">
         	<h3>Influences</h3>
-                <p>[3] Sive enim ad sapientiam perveniri potest, non paranda nobis solum ea, sed fruenda etiam [sapientia] est; sive hoc difficile est, tamen nec modus est ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum id, quod quaeritur, sit pulcherrimum. etenim si delectamur, cum scribimus, quis est tam invidus, qui ab eo nos abducat? sin laboramus, quis est, qui alienae modum statuat industriae? nam ut Terentianus Chremes non inhumanus, qui novum vicinum non vult 'fodere aut arare aut aliquid ferre denique' -- non enim illum ab industria, sed ab inliberali labore deterret --, sic isti curiosi, quos offendit noster minime nobis iniucundus labor.</p>
+			<p>Catherine works in a range of media including oil paint, acrylics and watercolour. In the Bell Jar series she aims to explore the theme of Time; creating carefully composed images that are both transparent and reflective, and using multiple layers of images, colour, pattern to represent both memories of the past and objects from the present.</p>
+			<p>She has recently completed a series of watercolour illustrations which have been included in 'A Sketchbook of Edinburgh' (published by Birlinn, 2017).</p>
         </div>
   	</div>
 
