@@ -23,7 +23,7 @@ include "./header_nav.php";
         <div class="col-md-4">
         	<h3>Artist's Statement</h3>
 			<p>Catherine works in a range of media including oil paint, acrylics and watercolour. In the Bell Jar series she aims to explore the theme of Time; creating carefully composed images that are both transparent and reflective, and using multiple layers of images, colour, pattern to represent both memories of the past and objects from the present.</p>
-			<p>She has recently completed a series of watercolour illustrations which have been included in 'A Sketchbook of Edinburgh' (published by Birlinn, 2017).</p>
+			<p>She has recently completed a series of watercolour illustrations which have been included in <i>A Sketchbook of Edinburgh</i> (published by Birlinn, 2017).</p>
         </div>
   	</div>
 
