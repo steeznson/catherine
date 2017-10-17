@@ -24,13 +24,12 @@ h2{
 	text-align:center;
 }
 
-.jumbotron{
+.display-3{
 	text-align:center;
 }
 
 /* Fancybox */
-.gallery
-{
+.gallery{
     display: inline-block;
     margin-top: 20px;
 }
