@@ -18,7 +18,7 @@
 
 <body class="class-for-page">
 
-<nav class="navbar navbar-inverse navbar-custom">
+<nav class="navbar navbar-default navbar-custom">
         <div class="container-fluid">
         <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
