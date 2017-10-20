@@ -59,13 +59,9 @@ include "./header_nav.php";
 	</div> <!-- row / end -->
 </div> <!-- container / en -->
 
-<br/>
-<br/>
-<div class="row footer">
 <?php
-  echo "<small>&copy; Catherine Stevenson " . date('Y') . " All Rights Reserved</small>";
+include "footer.php";
 ?>
-</div>
 
 </body>
 </html>
