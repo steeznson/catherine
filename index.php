@@ -4,7 +4,7 @@ include "./header_nav.php";
 
 <div class="container">
   <div class="jumbotron">
-   <div class="container-fluid">
+   <div class="container">
     <h2 class="display-3">Catherine Stevenson Art</h2>
    </div>
   </div>
