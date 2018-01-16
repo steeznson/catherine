@@ -1,17 +1,17 @@
 /* Background */
 .jumbotron{
-	background-image:url("../media/belljar/1belljarspoon2.jpg");
+	background:url("../media/david-clode.jpg");
 	background-size: 200ex 200ex;
-	background-position: center;
+	background-position: top;
 }
 
 /* Colouring */
 h2{
-	color:#FFF;
+	color:#FFFFFF;
 }
 
-.navbar-custom{
-    	background-color:#E2E6DE;
+.navbar-custom, .navbar-nav, .navbar-collapse{
+    	color:#FFFFFF;
 }
 
 /* Spacing */
@@ -27,9 +27,13 @@ h2{
 	text-align:center;
 }
 
+/* Size */
+p{
+	font-size:120%;
+}
+
 /* Fancybox */
 .gallery{
     display: inline-block;
     margin-top: 20px;
 }
-
