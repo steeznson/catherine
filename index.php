@@ -35,6 +35,7 @@ include "./header_nav.php";
 </div>
 
 <?php
+include "social_media.php";
 include "footer.php";
 ?>
 
