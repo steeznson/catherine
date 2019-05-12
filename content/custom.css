@@ -1,34 +1,34 @@
 /* Background */
 .jumbotron{
-        background-color: #4C4CFF;
+    background-color: #4C4CFF;
 }
 
 /* Colouring */
 h2{
-	color:#FFFFFF;
+    color:#FFFFFF;
 }
 
 .navbar-custom, .navbar-nav, .navbar-collapse{
-    	color:#FFFFFF;
+    color:#FFFFFF;
 }
 
 /* Spacing */
 .footer{
-	text-align:center;
+    text-align:center;
 }
 
 #contact{
-	text-align:center;
+    text-align:center;
 }
 
 .display-3{
-	text-align:center;
+    text-align:center;
 }
 
 #bio{
     text-align:center;
-    margin-left:100px;
-    margin-right:100px;
+    margin-left:10%;
+    margin-right:10%;
 }
 
 #social-links{
