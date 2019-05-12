@@ -1,8 +1,6 @@
 /* Background */
 .jumbotron{
-	background:url("../media/david-clode-small.jpg");
-	background-size: 200ex 200ex;
-	background-position: top;
+        background-color: #4C4CFF;
 }
 
 /* Colouring */
@@ -27,13 +25,18 @@ h2{
 	text-align:center;
 }
 
-/* Size */
-p{
-	font-size:120%;
+#bio{
+    text-align:center;
+    margin-left:100px;
+    margin-right:100px;
 }
 
-/* Fancybox */
-.gallery{
-    display: inline-block;
-    margin-top: 20px;
+#social-links{
+    justify-contents:center;
+}
+
+#greeter-wrapper{
+    width:40%;
+    margin-left:30%;
+    margin-right:30%;
 }
