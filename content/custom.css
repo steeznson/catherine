@@ -1,18 +1,26 @@
-/* Background */
-.jumbotron{
-    background-color: #4C4CFF;
-}
-
 /* Colouring */
-h2{
+h2, .navbar-custom, .navbar-nav, .navbar-collapse, .image-container{
     color:#FFFFFF;
 }
 
-.navbar-custom, .navbar-nav, .navbar-collapse{
-    color:#FFFFFF;
+.title{
+    color:#FFF;
 }
 
 /* Spacing */
+.image-container {
+    position: relative;
+    text-align: center;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    background-color: #000;
+    background: rgba(0,0,0, 0.7); 
+}
+
 .footer{
     text-align:center;
 }
