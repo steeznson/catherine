@@ -3,13 +3,10 @@
  ?>
 
 <div id="contact">
-  <p>stevca@hotmail.co.uk</p>
+  <a href="mailto:stevca@hotmail.co.uk">stevca@hotmail.co.uk</a>
 </div>
 
 <?php
  include "social_media.php";
  include "footer.php";
  ?>
-
-</body>
-</html>

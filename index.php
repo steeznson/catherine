@@ -23,6 +23,3 @@
  include "social_media.php";
  include "footer.php";
  ?>
-
-</body>
-</html>
