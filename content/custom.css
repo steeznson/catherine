@@ -26,21 +26,21 @@ h2, .navbar-custom, .navbar-nav, .navbar-collapse {
 }
 
 .footer, .display-3, #contact {
-    text-align:center;
+    text-align: center;
 }
 
 #bio {
-    text-align:center;
-    margin-left:10%;
-    margin-right:10%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #social-links {
-    justify-contents:center;
+    justify-content: center;
 }
 
 #greeter-wrapper {
-    width:40%;
-    margin-left:30%;
-    margin-right:30%;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
