@@ -4,7 +4,7 @@
 
 <div class="container">
   <div class="row" id="title">
-    <h1 class="display-3">Catherine Leslie - Artist</h2>
+    <h1 class="display-3">Catherine Stevenson - Artist</h2>
 </div>
 <div class="row" id="bio">
   <p>Catherine works in a range of media including oil paint, acrylics and watercolour.<br/>
