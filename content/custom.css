@@ -11,11 +11,15 @@ h2, .navbar-custom, .navbar-nav, .navbar-collapse {
 
 /* Spacing */
 .image-container {
-    max-width:  auto;
-    max-height: 300px;
+    max-width:  20em;
+    max-height: 20em;
     justify-content: center;
     display: flex;
     position: relative;
+    margin: auto;
+}
+
+.image-responsive {
 }
 
 .title {
@@ -27,6 +31,10 @@ h2, .navbar-custom, .navbar-nav, .navbar-collapse {
 
 .footer, .display-3, #contact {
     text-align: center;
+}
+
+.thumbnail, .fancybox {
+    padding: 5px 30px 5px 30px;
 }
 
 #bio {
