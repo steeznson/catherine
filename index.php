@@ -12,8 +12,8 @@
 </div>
 <div class="row">
   <div id="greeter-wrapper">
-    <a class="fancybox thumbnail" rel="lightbox" href="media/belljargreeter.jpg">
-      <img id="greeter-image" src="./media/belljargreeter.jpg" width="500px"/>
+    <a class="fancybox thumbnail" rel="lightbox" href="media/collection/anapartmentinparis.jpeg">
+      <img id="greeter-image" src="media/collection/anapartmentinparis.jpeg" width="500px"/>
     </a>
   </div>
 </div>

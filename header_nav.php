@@ -12,7 +12,7 @@
     <!-- custom style sheet-->
     <link href='content/custom.css' rel='stylesheet' type='text/css'>
     <!-- favicon -->
-    <link rel="icon" type="image/png" href="media/CMS_logo.png">
+    <link rel="icon" type="image/png" href="media/CMS_favicon.png">
     <!-- custom js -->
     <script src="scripts/gallery.js"></script>
     <title>Catherine Stevenson Artist</title>
@@ -32,7 +32,8 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav">
-            <li><a href="belljargallery.php">Bell Jar Collection</a></li>
+            <li><a href="collection.php">Current Collection</a></li>
+            <li><a href="watercolours.php">Watercolours</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
