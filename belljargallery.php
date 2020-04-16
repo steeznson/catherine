@@ -6,7 +6,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/5belljarflower2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt="" src="media/belljar/5belljarflower2.jpg" />
@@ -14,7 +14,7 @@
         </div>
       </a>      
     </div>  
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/6belljarelephant2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/6belljarelephant2.jpg"/>
@@ -22,7 +22,7 @@
         </div>
       </a>      
     </div>  
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/7belljarduck2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/7belljarduck2.jpg" />
@@ -30,7 +30,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/4belljarhare2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/4belljarhare2.jpg" />
@@ -38,7 +38,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/9belljarbluegoose2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/9belljarbluegoose2.jpg" />
@@ -46,7 +46,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/10belljatnetsuke.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/10belljatnetsuke.jpg" />
@@ -54,7 +54,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/8belljardalicabinet2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt="" src="media/belljar/8belljardalicabinet2.jpg" />
@@ -62,7 +62,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/2belljarskull2.jpg">   
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/2belljarskull2.jpg" />
@@ -70,7 +70,7 @@
         </div>
       </a>      
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/1belljarspoon2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt=""  src="media/belljar/1belljarspoon2.jpg" />
@@ -78,7 +78,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-4 col-sm-6 col-xs-10">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/belljar/3belljarhook2.jpg">
         <div class="image-container">
           <img class="img-responsive " alt="" src="media/belljar/3belljarhook2.jpg" />

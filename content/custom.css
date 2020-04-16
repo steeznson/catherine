@@ -45,6 +45,7 @@ h2, .navbar-custom, .navbar-nav, .navbar-collapse {
 
 #social-links {
     justify-content: center;
+    max-width: 30%;
 }
 
 #greeter-wrapper {
