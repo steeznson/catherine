@@ -11,6 +11,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
     <!-- custom style sheet-->
     <link href='content/custom.css' rel='stylesheet' type='text/css'>
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="media/CMS_logo.png">
     <!-- custom js -->
     <script src="scripts/gallery.js"></script>
     <title>Catherine Stevenson Artist</title>
