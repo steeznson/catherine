@@ -9,9 +9,18 @@
     color: #FFF;
 }
 
+h1 {
+    font-weight: 300;
+}
+
 /* Spacing */
 img {
     max-width: 100%;
+}
+
+#splash-container {
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .image-container {
@@ -23,7 +32,7 @@ img {
     margin: auto;
 }
 
-.span, .footer, .display-3, #contact {
+.card-title, .span, .footer, .display-3, #contact {
     text-align: center;
 }
 
