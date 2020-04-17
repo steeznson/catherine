@@ -78,7 +78,7 @@
           <img class="img-responsive " alt=""  src="media/collection/thepalehorse.jpeg" />
         </div>
       </a>
-      <span><small><i>The Pale Horse</i> - oil on board - 49x49cms</small></span>
+      <span><small><i>The Pale Horse</i> - oil on canvas - 49x49cms</small></span>
     </div>
   </div>
   <div class="row">
@@ -88,7 +88,7 @@
           <img class="img-responsive " alt="" src="media/collection/italianalcove.jpeg" />
         </div>
       </a>
-      <span><small><i>Italian Alcove</i> - oil on board - 49x49cms</small></span>
+      <span><small><i>Italian Alcove</i> - oil on canvas - 49x49cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/collection/anapartmentinparis.jpeg">
@@ -96,7 +96,7 @@
           <img class="img-responsive " alt="" src="media/collection/anapartmentinparis.jpeg" />
         </div>
       </a>
-      <span><small><i>An Apartment in Paris</i> - oil on board - 45x45cms</small></span>
+      <span><small><i>An Apartment in Paris</i> - acrylics on canvas - 45x45cms</small></span>
     </div>
   </div> 
 </div>
