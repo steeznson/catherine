@@ -1,4 +1,6 @@
 $(document).ready(function(){
+    var image = document.getElementById('splashimg');
+    new simpleParallax(image);
     $(".fancybox").fancybox({
         openEffect: "none",
         closeEffect: "none",

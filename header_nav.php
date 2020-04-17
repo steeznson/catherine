@@ -9,6 +9,7 @@
     <script src="content/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
+    <script src="scripts/simpleParallax.min.js"></script>
     <!-- custom style sheet-->
     <link href='content/custom.css' rel='stylesheet' type='text/css'>
     <!-- favicon -->
