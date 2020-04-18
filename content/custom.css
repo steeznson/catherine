@@ -24,12 +24,13 @@ img {
 }
 
 .image-container {
-    max-width:  20em;
-    max-height: 20em;
+    max-width:  inherit;
+    max-height: inherit;
     justify-content: center;
     display: flex;
     position: relative;
     margin: auto;
+    backgound-color: #FFF;
 }
 
 .card-title, .span, .footer, .display-3, #contact {
@@ -37,7 +38,10 @@ img {
 }
 
 .thumbnail, .fancybox {
-    padding: 5px 30px 5px 30px;
+    padding: 5px;
+    backgound-color: #FFF;
+    max-width:  inherit;
+    max-height: inherit;
 }
 
 .artwork {
