@@ -6,10 +6,14 @@
   <div class="row">
     <div class="card">
       <h1 class="card-title">Catherine Stevenson - Artist</h1>
-      <p class="card-text">Catherine works in a range of media including oil paint, acrylics and watercolour. In the Bell Jar series she aims to explore the theme of Time; creating carefully composed images that are both transparent and reflective, and using multiple layers of images, colour, pattern to represent both memories of the past and objects from the present.</p>
+      </br>
+      <p class="card-text">CATHERINE STEVENSON is an Edinburgh-based artist who studied Drawing and Painting at the Edinburgh College of Art, graduating in 1978.  After a long teaching career, which included 28 years at George Watson's College in the city, she now has time to concentrate on her own work.</br></br>
+Catherine paints in oil, acrylic and watercolour, and her subject matter includes still life, landscape and portraiture.</br></br>
+She is one of four artists whose watercolour illustrations feature in <i>Sketchbook of Edinburgh</i> (first published in 2017 by Birlinn Ltd, and reprinted in 2019).</p>
     </div>
   </div>
-    <div class="row">
+  </br>
+  <div class="row">
     <img id="splashimg" class="center-block" src="media/collection/anapartmentinparis.jpeg" alt="splashimg">
   </div>
 </div>

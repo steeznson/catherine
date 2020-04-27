@@ -32,7 +32,7 @@ img {
     backgound-color: #FFF;
 }
 
-.card-title, .span, .footer, .display-3, #contact {
+.card-title, .card-text, .span, .footer, .display-3, #contact {
     text-align: center;
 }
 
