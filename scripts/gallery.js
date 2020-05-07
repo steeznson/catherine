@@ -17,6 +17,10 @@ $(document).ready(function(){
 
     if (revealer){
         revealer.addEventListener("click", function(){
+            var uninitialisedImgs = $('.uninitialised-image');
+            for(var i = 0; i < uninitialisedImgs.length; ++i){
+                uninitialisedImgs[i].src = uninitialisedImgs[i].getAttribute('data-src');
+            }
             $(".hide").removeClass("hide");
             $("#revealerDiv").hide();
         });
