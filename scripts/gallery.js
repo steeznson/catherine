@@ -6,18 +6,19 @@ $(document).ready(function(){
         openEffect: "none",
         closeEffect: "none",
         padding:0, margin:0,
-        
+
         beforeShow: function () {
         $("body *:not(.fancybox-overlay, .fancybox-overlay *)").addClass("blur");
         },
         afterClose: function () {
             $("body *:not(.fancybox-overlay, .fancybox-overlay *)").removeClass("blur");
         }
-        
     });
 
-    revealer.addEventListener("click", function(){
-        $(".hide").removeClass("hide");
-        $("#revealerDiv").hide();
-    });
+    if (revealer){
+        revealer.addEventListener("click", function(){
+            $(".hide").removeClass("hide");
+            $("#revealerDiv").hide();
+        });
+    }
 });
