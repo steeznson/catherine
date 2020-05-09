@@ -28,8 +28,8 @@
       </a>
       <span><small><i>Amber Dust</i> - oil on board - 30x30cms</small></span>
     </div>
- </div>
- <div class="row">
+  </div>
+  <div class="row">
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/collection/ghostbird.jpeg">
         <div class="image-container">
@@ -81,8 +81,8 @@
       <span><small><i>The Pale Horse</i> - oil on canvas - 49x49cms</small></span>
     </div>
     <div id="revealerDiv" class="col-sm-12 span">
-      <button id="revealer" type="button" class="btn-lg">
-        <p class="glyphicon glyphicon-chevron-down"></p> Next
+      <button id="revealer" type="button">
+        <p class="glyphicon glyphicon-menu-down"></p> Next
       </button>
     </div>
   </div>
