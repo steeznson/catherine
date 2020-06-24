@@ -5,25 +5,25 @@
 <div class="container">
   <div class="row">
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/jeansbowl.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/jeansbowl.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt="" src="media/collection/jeansbowl.jpeg" />
+          <img class="img-responsive " alt="" src="media/stilllife/jeansbowl.jpeg" />
         </div>
       </a>
       <span><small><i>Jean's Bowl</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/thedeepblue.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/thedeepblue.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/thedeepblue.jpeg"/>
+          <img class="img-responsive " alt=""  src="media/stilllife/thedeepblue.jpeg"/>
         </div>
       </a>
       <span><small><i>The Deep Blue</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/amberdust.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/amberdust.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/amberdust.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/amberdust.jpeg" />
         </div>
       </a>
       <span><small><i>Amber Dust</i> - oil on board - 30x30cms</small></span>
@@ -31,25 +31,25 @@
   </div>
   <div class="row">
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/ghostbird.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/ghostbird.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/ghostbird.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/ghostbird.jpeg" />
         </div>
       </a>
       <span><small><i>Ghost Birds</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/autumnegret.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/autumnegret.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/autumnegret.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/autumnegret.jpeg" />
         </div>
       </a>
       <span><small><i>Autumn Egret</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/remainsofthebird.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/remainsofthebird.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/remainsofthebird.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/remainsofthebird.jpeg" />
         </div>
       </a>
       <span><small><i>Remains of the Bird</i> - oil on board - 30x30cms</small></span>
@@ -57,25 +57,25 @@
   </div>
   <div class="row">
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/whitejug.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/whitejug.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt="" src="media/collection/whitejug.jpeg" />
+          <img class="img-responsive " alt="" src="media/stilllife/whitejug.jpeg" />
         </div>
       </a>
       <span><small><i>White Jug</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/nightjourney.jpeg">   
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/nightjourney.jpeg">   
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/nightjourney.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/nightjourney.jpeg" />
         </div>
       </a>
       <span><small><i>Night Journey</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/thepalehorse.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/thepalehorse.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/collection/thepalehorse.jpeg" />
+          <img class="img-responsive " alt=""  src="media/stilllife/thepalehorse.jpeg" />
         </div>
       </a>
       <span><small><i>The Pale Horse</i> - oil on canvas - 49x49cms</small></span>
@@ -88,9 +88,9 @@
   </div>
   <div class="row hide">
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/collection/anapartmentinparis.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/anapartmentinparis.jpeg">
         <div class="image-container">
-          <img class="img-responsive uninitialised-image " alt="" data-src="media/collection/anapartmentinparis.jpeg" />
+          <img class="img-responsive uninitialised-image " alt="" data-src="media/stilllife/anapartmentinparis.jpeg" />
         </div>
       </a>
       <span><small><i>An Apartment in Paris</i> - acrylics on canvas - 45x45cms</small></span>

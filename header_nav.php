@@ -33,7 +33,9 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav">
-            <li><a href="gallery.php">Gallery</a></li>
+            <li><a href="stilllife.php">Still Life</a></li>
+            <li><a href="landscapes.php">Landscape</a></li>
+            <li><a href="portrait.php">Portrait</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
