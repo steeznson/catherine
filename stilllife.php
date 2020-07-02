@@ -54,12 +54,17 @@
       </a>
       <span><small><i>Remains of the Bird</i> - oil on board - 30x30cms</small></span>
     </div>
+    <div id="revealerDiv" class="col-sm-12 span">
+      <button id="revealer" type="button">
+        <p class="glyphicon glyphicon-menu-down"></p> Next
+      </button>
+    </div>
   </div>
-  <div class="row">
+  <div class="row hide">
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/whitejug.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt="" src="media/stilllife/whitejug.jpeg" />
+          <img class="img-responsive uninitialised-image " alt="" data-src="media/stilllife/whitejug.jpeg" />
         </div>
       </a>
       <span><small><i>White Jug</i> - oil on board - 30x30cms</small></span>
@@ -67,7 +72,7 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/nightjourney.jpeg">   
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/stilllife/nightjourney.jpeg" />
+          <img class="img-responsive uninitialised-image " alt=""  data-src="media/stilllife/nightjourney.jpeg" />
         </div>
       </a>
       <span><small><i>Night Journey</i> - oil on board - 30x30cms</small></span>
@@ -75,15 +80,10 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/thepalehorse.jpeg">
         <div class="image-container">
-          <img class="img-responsive " alt=""  src="media/stilllife/thepalehorse.jpeg" />
+          <img class="img-responsive uninitialised-image " alt=""  data-src="media/stilllife/thepalehorse.jpeg" />
         </div>
       </a>
       <span><small><i>The Pale Horse</i> - oil on canvas - 49x49cms</small></span>
-    </div>
-    <div id="revealerDiv" class="col-sm-12 span">
-      <button id="revealer" type="button">
-        <p class="glyphicon glyphicon-menu-down"></p> Next
-      </button>
     </div>
   </div>
   <div class="row hide">

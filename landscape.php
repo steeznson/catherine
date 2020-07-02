@@ -54,12 +54,17 @@
       </a>
       <span><small><i>The Path to the Gate</i> - oil on board - 40x40cms</small></span>
     </div>
+    <div id="revealerDiv" class="col-sm-12 span">
+      <button id="revealer" type="button">
+        <p class="glyphicon glyphicon-menu-down"></p> Next
+      </button>
+    </div>
   </div>
-  <div class="row">
+  <div class="row hide">
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/winterpath.jpeg">
         <div class="image-container">
-          <img class="img-responsive  " alt=""  src="media/landscapes/winterpath.jpeg" />
+          <img class="img-responsive uninitialised-image  " alt=""  data-src="media/landscapes/winterpath.jpeg" />
         </div>
       </a>
       <span><small><i>Winter Path</i> - oil on board - 40x40cms</small></span>
@@ -67,7 +72,7 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/theedgeofthefield.jpeg">
         <div class="image-container">
-          <img class="img-responsive  " alt="" src="media/landscapes/theedgeofthefield.jpeg" />
+          <img class="img-responsive uninitialised-image  " alt="" data-src="media/landscapes/theedgeofthefield.jpeg" />
         </div>
       </a>
       <span><small><i>The Edge of the Field</i> - oil on board - 30x21cms</small></span>
@@ -75,15 +80,10 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/inverleithleaves.jpeg">
         <div class="image-container">
-          <img class="img-responsive  " alt=""  src="media/landscapes/inverleithleaves.jpeg" />
+          <img class="img-responsive uninitialised-image  " alt=""  data-src="media/landscapes/inverleithleaves.jpeg" />
         </div>
       </a>
       <span><small><i>Inverleith Leaves</i> - oil on board - 30x30cms</small></span>
-    </div>
-    <div id="revealerDiv" class="col-sm-12 span">
-      <button id="revealer" type="button">
-        <p class="glyphicon glyphicon-menu-down"></p> Next
-      </button>
     </div>
   </div>
   <div class="row hide">
