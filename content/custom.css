@@ -1,11 +1,23 @@
 /* Colouring */
-.navbar-custom, .navbar-nav, .navbar-collapse {
+.navbar-custom, .navbar-nav, .navbar-collapse,
+ .navbar-default .navbar-nav > li > a, .navbar-header > .navbar-brand{
     color:#FFF;
+    background-color: #3d59AB;
+}
+
+.navbar-header > button{
+    background-color: #FFF;
+}
+
+.navbar-default .navbar-nav > li > a:hover, navbar-default .navbar-nav > li > a:focus,
+ .navbar-header > .navbar-brand:hover {
+    background-color: #6495ed;
+    color: #FFF;
 }
 
 .title {
     background-color: #000;
-    background: rgba(0,0,0, 0.7); 
+    background: rgba(0,0,0, 0.7);
     color: #FFF;
 }
 
