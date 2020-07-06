@@ -70,9 +70,9 @@
       <span><small><i>White Jug</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/nightjourney.jpeg">   
+      <a class="fancybox thumbnail" rel="lightbox" href="media/stilllife/nightjourney.jpg">
         <div class="image-container">
-          <img class="img-responsive uninitialised-image " alt=""  data-src="media/stilllife/nightjourney.jpeg" />
+          <img class="img-responsive uninitialised-image " alt=""  data-src="media/stilllife/nightjourney.jpg" />
         </div>
       </a>
       <span><small><i>Night Journey</i> - oil on board - 30x30cms</small></span>

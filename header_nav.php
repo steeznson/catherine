@@ -36,7 +36,7 @@
             <li><a href="stilllife.php">Still Life</a></li>
             <li><a href="landscape.php">Landscape</a></li>
             <li><a href="portrait.php">Portrait</a></li>
-            <li><a href="illustration.php">Illustration</a></li>
+            <!--<li><a href="illustration.php">Illustration</a></li>-->
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>

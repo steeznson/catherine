@@ -36,7 +36,7 @@
           <img class="img-responsive  " alt=""  src="media/landscapes/friendspath.jpg" />
         </div>
       </a>
-      <span><small><i>Friend&apos;s Path</i> - oil on board - 30x30cms</small></span>
+      <span><small><i>Friends&apos; Path</i> - oil on board - 30x30cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/smallbirds.jpeg">
