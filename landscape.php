@@ -104,6 +104,7 @@
       <span><small><i>The Garden at Farr</i> - oil on board - 40x40cms</small></span>
     </div>
   </div>
+</div>
 <?php
  include "social_media.php";
  include "footer.php";
