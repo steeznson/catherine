@@ -103,6 +103,14 @@
       </a>
       <span><small><i>The Garden at Farr</i> - oil on board - 40x40cms</small></span>
     </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/nightwalk.jpeg">
+        <div class="image-container">
+          <img class="img-responsive uninitialised-image " alt="" data-src="media/landscapes/nightwalk.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Night Walk</i> - acrylic on canvas - 30x21cms</small></span>
+    </div>
   </div>
 </div>
 <?php
