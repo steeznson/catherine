@@ -112,6 +112,16 @@
       <span><small><i>Night Walk</i> - acrylic on canvas - 30x21cms</small></span>
     </div>
   </div>
+  <div class="row hide">
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/landscapes/thelongview.jpeg">
+        <div class="image-container">
+          <img class="img-responsive uninitialised-image " alt="" data-src="media/landscapes/thelongview.jpeg" />
+        </div>
+      </a>
+      <span><small><i>The Long View</i> - oil on canvas - 60x40cms</small></span>
+    </div>
+  </div>
 </div>
 <?php
  include "social_media.php";
