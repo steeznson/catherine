@@ -17,7 +17,7 @@
         <blockquote class="blockquote">
           <small>
             I enjoy using a range of media and techniques to explore combinations of realism and stylisation. 
-            The simplifined bell jar motif originated in a display of plant specimens I saw at the Royal Botanic Garden in Edinburgh. 
+            The simplified bell jar motif originated in a display of plant specimens I saw at the Royal Botanic Garden in Edinburgh. 
             The function of the bell jars is not to preserve the plants but to allow them to be clearly identified and appreciated. 
             I was intrigued by the idea of a symbolic bell jar protecting and highlighting a scene or group of objects which may or 
             may not remain unchanged as time passes. The landscape compositions are inspired by my daily walks during which I record 
