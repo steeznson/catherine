@@ -93,7 +93,7 @@
           <img class="img-responsive uninitialised-image " alt="" data-src="media/artworks/mantelpiece.jpeg"/>
         </div>
       </a>
-      <span><small><i>Mantelpiece</i> - oil on board - 50x40cms</small></span>
+      <span><small><i>Mantelpiece</i> - oil on canvas - 50x40cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/thecabinet3.jpg">
