@@ -31,17 +31,4 @@ $(document).ready(function(){
     const imgObserver = new IntersectionObserver(loadImg,{root:null, threshold:0});
 
     artworks.forEach(img => imgObserver.observe(img));
-    
-
-
-    // if (revealer){
-    //     revealer.addEventListener("click", function(){
-    //         const uninitialisedImgs = $('.uninitialised-image');
-    //         for(let i = 0; i < uninitialisedImgs.length; ++i){
-    //             uninitialisedImgs[i].src = uninitialisedImgs[i].getAttribute('data-src');
-    //         }
-    //         $(".hide").removeClass("hide");
-    //         $("#revealerDiv").hide();
-    //     });
-    // }
 });
