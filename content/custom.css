@@ -41,7 +41,7 @@ button:hover {
 
 /* Spacing */
 img {
-    max-width: 100%;
+    width: 200%
 }
 
 #splash-container {
@@ -55,7 +55,12 @@ img {
     justify-content: center;
     position: relative;
     margin: auto;
-    backgound-color: #FFF;
+    background-color: #FFF;
+}
+
+.lazy-image {
+    filter: blur(5px);
+    width: 200%
 }
 
 .card-title, .card-text, .span, .footer, .display-3, #contact {
@@ -64,10 +69,12 @@ img {
 
 .thumbnail, .fancybox {
     padding: 5px;
-    backgound-color: #FFF;
-    max-width:  inherit;
+    background-color: #FFF;
+    max-width:  inherit; 
     max-height: inherit;
 }
+
+
 
 .artwork {
     justify-content: center;
