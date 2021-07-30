@@ -7,12 +7,10 @@
     <div class="card">
       <h1 class="card-title">Catherine Stevenson - Artist</h1>
       </br>
-      <p class="card-text">After studying drawing, painting and printmaking at Edinburgh College of Art, 
-        Catherine Stevenson completed a post graduate course at Moray House College of Education in 1982. 
-        She worked in art education for many years while continuing to develop her own ideas and practices. 
-        Her subject matter includes Still life, Landscape and Portraiture.</br>
-        She is also one of four artists whose watercolour illustrations feature in the book <i>A Sketchbook of Edinburgh</i>, 
-        first published in 2017 by Birlinn Ltd.
+      <p class="card-text">After graduating in Fine Art from Edinburgh College of Art, Catherine Stevenson taught in schools in West Lothian and Edinburgh. Throughout her career she continued to develop her own ideas and art practices and she now paints full time in her Edinburgh studio. 
+      Catherine has exhibited her paintings at the Torrance Gallery and with the Society of Women Artists in London.</br>
+      She is also one of four artists whose watercolour illustrations feature in the book <i>A Sketchbook of Edinburgh</i>, 
+      first published in 2017 by Birlinn Ltd.
         <!-- </br></br> -->
         <!-- <blockquote class="blockquote"> -->
         <!--   <small> -->
@@ -30,7 +28,7 @@
   </div>
   </br>
   <div class="row">
-    <img id="splashimg" class="center-block" src="media/artworks/friendspath.jpg" alt="splashimg">
+    <img id="splashimg" class="center-block" src="media/artworks/italianstilllife.jpeg" alt="splashimg">
   </div>
 </div>
 

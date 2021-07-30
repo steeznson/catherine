@@ -44,6 +44,10 @@ img {
     width: 200%
 }
 
+.center-block{
+    width: 60%
+}
+
 #splash-container {
     padding-left: 5%;
     padding-right: 5%;
