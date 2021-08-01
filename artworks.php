@@ -99,12 +99,12 @@
       <span><small><i>The Long View</i> - oil on canvas - 60x40cms</small></span>
     </div>
     <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/thecabinet2.jpeg">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/italianstilllife.jpeg">
         <div class="image-container">
-          <img class="img-responsive lazy-image" alt="" src="media/artworks/thecabinet2-lazy.jpeg" data-src="media/artworks/thecabinet2.jpeg"/>
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/italianstilllife-lazy.jpeg" data-src="media/artworks/italianstilllife.jpeg"/>
         </div>
       </a>
-      <span><small><i>The Cabinet 2</i> - oil on board - 56x35cms</small></span>
+      <span class = "frontspan"><small><i>Italian Still Life</i> - oil on board - 30x21cms</small></span>
     </div>
   </div>
   <div class="row">
@@ -212,33 +212,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/calathea.jpeg">
-        <div class="image-container">
-          <img class="img-responsive lazy-image" alt="" src="media/artworks/calathea-lazy.jpeg" data-src="media/artworks/calathea.jpeg" />
-        </div>
-      </a>
-      <span><small><i>Calathea</i> - oil on board - 42x32cms</small></span>
-    </div>
-    <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/thedogandpear.jpeg">
-        <div class="image-container">
-          <img class="img-responsive lazy-image" alt="" src="media/artworks/thedogandpear-lazy.jpeg" data-src="media/artworks/thedogandpear.jpeg" />
-        </div>
-      </a>
-      <span><small><i>The Dog and Pear</i> - oil on board - 30x30cms</small></span>
-    </div>
-    <div class="artwork col-md-4  col-xs-12">
-      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/italianstilllife2.jpeg">
-        <div class="image-container">
-          <img class="img-responsive lazy-image" alt="" src="media/artworks/italianstilllife2-lazy.jpeg" data-src="media/artworks/italianstilllife2.jpeg" />
-        </div>
-      </a>
-      <span><small><i>Italian Still Life</i> - oil on board - 30x21cms</small></span>
-    </div>
-  </div>
-  <div class="row">
-    <div class="artwork col-md-4  col-xs-12">
+  <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/farrwoods.jpeg">
         <div class="image-container">
           <img class="img-responsive lazy-image" alt="" src="media/artworks/farrwoods-lazy.jpeg" data-src="media/artworks/farrwoods.jpeg" />
@@ -253,6 +227,25 @@
         </div>
       </a>
       <span><small><i>Rothiemurchus Lochan</i> - oil on board - 30x30cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/thedogandpear.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/thedogandpear-lazy.jpeg" data-src="media/artworks/thedogandpear.jpeg" />
+        </div>
+      </a>
+      <span><small><i>The Dog and Pear</i> - oil on board - 30x30cms</small></span>
+    </div>
+    
+  </div>
+  <div class="row">
+  <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/calathea.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/calathea-lazy.jpeg" data-src="media/artworks/calathea.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Calathea</i> - oil on board - 42x32cms</small></span>
     </div>
   </div>
 </div>

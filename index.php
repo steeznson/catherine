@@ -28,9 +28,12 @@
   </div>
   </br>
   <div class="row">
-    <img id="splashimg" class="center-block" src="media/artworks/italianstilllife.jpeg" alt="splashimg">
+    <img id="splashimg" class="center-block" src="media/artworks/thecabinet2.jpeg" alt="splashimg">
+    <span class="center-block"><small><i>The Cabinet 2</i> - oil on board - 60x60cms</small></span>
   </div>
 </div>
+
+
 
 <?php
  include "social_media.php";
