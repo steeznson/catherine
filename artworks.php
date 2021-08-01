@@ -189,7 +189,7 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/friendspath.jpg">
         <div class="image-container">
-          <img class="img-responsive lazy-image" alt=""  src="media/artworks/friendspath-lazy.jpg" data-src=media/artworks/friendspath.jpg/>
+          <img class="img-responsive lazy-image" alt=""  src="media/artworks/friendspath-lazy.jpg" data-src="media/artworks/friendspath.jpg"/>
         </div>
       </a>
       <span><small><i>Friends' Path</i> - oil on board - 30x30cms</small></span>
