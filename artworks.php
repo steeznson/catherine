@@ -189,7 +189,7 @@
     <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/friendspath.jpg">
         <div class="image-container">
-          <img class="img-responsive lazy-image" alt=""  src="media/artworks/friendspath-lazy.jpg" data-src=media/artworks/friendspath.jpg/>
+          <img class="img-responsive lazy-image" alt=""  src="media/artworks/friendspath-lazy.jpg" data-src="media/artworks/friendspath.jpg"/>
         </div>
       </a>
       <span><small><i>Friends' Path</i> - oil on board - 30x30cms</small></span>
@@ -239,13 +239,107 @@
     
   </div>
   <div class="row">
-  <div class="artwork col-md-4  col-xs-12">
+    <div class="artwork col-md-4  col-xs-12">
       <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/calathea.jpeg">
         <div class="image-container">
           <img class="img-responsive lazy-image" alt="" src="media/artworks/calathea-lazy.jpeg" data-src="media/artworks/calathea.jpeg" />
         </div>
       </a>
       <span><small><i>Calathea</i> - oil on board - 42x32cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/greenjug.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/greenjug-lazy.jpeg" data-src="media/artworks/greenjug.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Green Jug</i> - oil on board - 30x30cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/crow.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/crow-lazy.jpeg" data-src="media/artworks/crow.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Crow</i> - oil on board - 30x30cms</small></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/templebird.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/templebird-lazy.jpeg" data-src="media/artworks/templebird.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Temple Bird</i> - acrylic and watercolour on paper - 12x18cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/redtemple.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/redtemple-lazy.jpeg" data-src="media/artworks/redtemple.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Red Temple</i> - acrylic and watercolour on paper - 18x24cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/indianbirds.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/indianbirds-lazy.jpeg" data-src="media/artworks/indianbirds.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Indian Birds</i> - acrylic and watercolour on paper - 16x20cms</small></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/rothiemurchus1.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/rothiemurchus1-lazy.jpeg" data-src="media/artworks/rothiemurchus1.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Rothiemurchus</i> - oil on board - 30x30cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/lochan2.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/lochan2-lazy.jpeg" data-src="media/artworks/lochan2.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Lochan 2</i> - oil on board - 30x30cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/autumn.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/autumn-lazy.jpeg" data-src="media/artworks/autumn.jpeg" />
+        </div>
+      </a>
+      <span><small><i>Autumn</i> - oil on board - 30x30cms</small></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/thegreathall.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/thegreathall-lazy.jpeg" data-src="media/artworks/thegreathall.jpeg" />
+        </div>
+      </a>
+      <span><small><i>The Great Hall</i> - acrylic on canvas - 50x50cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/whitebird.jpeg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/whitebird-lazy.jpeg" data-src="media/artworks/whitebird.jpeg" />
+        </div>
+      </a>
+      <span><small><i>White Bird</i> - oil on board - 30x30cms</small></span>
+    </div>
+    <div class="artwork col-md-4  col-xs-12">
+      <a class="fancybox thumbnail" rel="lightbox" href="media/artworks/abudapestgarden.jpg">
+        <div class="image-container">
+          <img class="img-responsive lazy-image" alt="" src="media/artworks/abudapestgarden-lazy.jpg" data-src="media/artworks/abudapestgarden.jpg" />
+        </div>
+      </a>
+      <span><small><i>A Budapest Garden</i> - oil on board - 50x75cms</small></span>
     </div>
   </div>
 </div>
